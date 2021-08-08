@@ -91,9 +91,10 @@
     <distributionManagement>
         <repository>
             <id>ykz200-maven-repo</id>
-            <url>file:/home/kzyuan/code/maven-repo/repository/</url>
+            <url>file:D:\Enzo\workspace\IDEA\maven-repository/</url>
         </repository>
     </distributionManagement>
+
 
 
 </project>
